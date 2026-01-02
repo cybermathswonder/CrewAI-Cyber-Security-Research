@@ -1,6 +1,6 @@
 # CrewAI Cyber Security Research
 
-CrewAI-Cyber-Security-Research — Automated AI system to find, summarize, and polish the latest cybersecurity reports (2024–2025).
+CrewAI-Cyber-Security-Research Automated AI system to find, summarize, and polish the latest cybersecurity reports (2024–2025).
 This project uses CrewAI agents to search for technical reports, extract key information, generate Markdown summaries, and produce a professional final report.
 
 ## What this project does
